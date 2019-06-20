@@ -1,2 +1,2 @@
 # Codewars
-Javascript Practice from Codewars
+Javascript Practice 
