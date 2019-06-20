@@ -1,0 +1,11 @@
+/* INSTRUCTIONS
+
+Write function makeUpperCase.
+
+*/
+
+//SOLUTION
+
+function makeUpperCase(str) {
+ return str.toUpperCase();
+}
